@@ -1,5 +1,5 @@
 current directory: /mnt/c/github/adiazcan.github.io/vendor/bundle/gems/eventmachine-1.2.7/ext/fastfilereader
-/usr/bin/ruby2.5 -r ./siteconf20190111-3601-2me3ph.rb extconf.rb
+/usr/bin/ruby2.5 -r ./siteconf20190111-14299-1briam8.rb extconf.rb
 creating Makefile
 
 current directory: /mnt/c/github/adiazcan.github.io/vendor/bundle/gems/eventmachine-1.2.7/ext/fastfilereader
@@ -13,4 +13,4 @@ linking shared-object fastfilereaderext.so
 
 current directory: /mnt/c/github/adiazcan.github.io/vendor/bundle/gems/eventmachine-1.2.7/ext/fastfilereader
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20190111-3601-13xxvf6
+/usr/bin/install -c -m 0755 fastfilereaderext.so ./.gem.20190111-14299-19otd45
