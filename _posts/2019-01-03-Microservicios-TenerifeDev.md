@@ -1,5 +1,7 @@
 ---
 title:  "Microservicios at TenerifeDev"
+header:
+  overlay_color: "#333"
 ---
 
 # Welcome
