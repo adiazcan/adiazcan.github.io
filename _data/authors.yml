@@ -1,0 +1,61 @@
+# The primary author of this blog.
+# Must be the same as `author` in `_config.yml`.
+# Change `author1` to your shortname.
+author1:
+  name:              Alberto Diaz Martin
+
+  # Used at the bottom of each page and at the top of the `about` layout
+  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
+  about: |
+    Alberto Diaz Martin is a professional with more than 15 years of experience in the IT Industry, all of them working with Microsoft Technologies. His principal activities are Development and Solution Analysts on his first years and as Team Leader and Solution Architect on the last 6 years. Currently Chief Technology Innovation Officer in ENCAMINA, leading Microsoft technology software development and member of the management board.  
+
+    For the Spanish Community, he works as organizer and speaker in the most important Microsoft technologies conferences which he is one of the most important leaders. Author of several books and articles in professional magazine, from 2013 he began a new career as co-director of CompartiMOSS, a Microsoft technologies magazine. 
+
+    In 2011 he was named Microsoft MVP and he still retaining recognition for the seventh consecutive year. He defined himself as a geek, smartphones lover and developer. For the community, has founded TenerifeDev (www.tenerifedev.com) with other friends, a technical community in Tenerife, coordinator at SUGES (SharePoint Users Group on Spain, www.suges.es) and at Comunidad Office 365 Spain.
+
+  # This photo will be used in the about section
+  picture:
+    path:            /assets/images/bio-photo.jpg
+
+  # Social media icons in sidebar
+  # Comment/uncommet to show/hide
+  # Rearrange to change the order in which they appear
+  social:
+    twitter:         adiazcan
+    github:          adiazcan
+    # email:           <mail@domain.tld>
+    # rss:             https://<url>/feed.xml
+    # facebook:        <username>
+    # google:          <number>
+    # vk:              <username>
+    youtube:         https://www.youtube.com/channel/UCTeuGJfZkrMPtns_PDKCjfQ?view_as=subscriber
+    # vimeo:           <username>
+    # vine:            <username>
+    # spotify:         <user>/<number>
+    # soundcloud:      <username>
+    # lastfm:          <username>
+    # instagram:       <username>
+    # flickr:          <string@string>
+    # 500px:           <username>
+    # dribbble:        <username>
+    # behance:         <username>
+    # deviantart:      <username>
+    # ello:            <username>
+    # twitch:          <username>
+    # steam:           <number>
+    # reddit:          <username>
+    # tumblr:          <username>
+    # pinterest:       <username>
+    # foursquare:      <number>
+    # yelp:            <string>
+    # stackoverflow:   <number/username>
+    # npm:             <username>
+    # hackernews:      <username>
+    # trello:          <firstnamelastname>
+    linkedin:        albertodiazmartin
+    # xing:            <firstname_lastname_counter>
+    # blogger:         <number>
+    # delicious:       <username>
+    # stumbleupon:     <username>
+    # paypal:          <username>
+    # download:        <url>

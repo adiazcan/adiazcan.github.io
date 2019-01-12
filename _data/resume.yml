@@ -1,0 +1,91 @@
+# If you have a `resume.json` file, copy it into `_data` and delete this file.
+# If you don't have a JSON Resume you can just edit this YAML file instead.
+# See also: <https://jsonresume.org/>.
+basics:
+  name: "Alberto Diaz Martin"
+  label: "Geek, smartphone lover and developer. Microsoft MVP - Chief Technology Innovation Officer at ENCAMINA"
+  picture: "/assets/images/bio-photo.jpg"
+  email: "adiazcan@hotmail.com"
+  summary: |
+    A professional with more than 15 years of experience in the IT Industry, all of them working with Microsoft Technologies. His principal activities are Development and Solution Analysts on his first years and as Team Leader and Solution Architect on the last 6 years. Currently Chief Technology Innovation Officer in ENCAMINA, leading Microsoft technology software development and member of the management board.  
+
+    For the Spanish Community, he works as organizer and speaker in the most important Microsoft technologies conferences which he is one of the most important leaders. Author of several books and articles in professional magazine, from 2013 he began a new career as co-director of CompartiMOSS, a Microsoft technologies magazine. 
+
+    In 2011 he was named Microsoft MVP and he still retaining recognition for the seventh consecutive year. He defined himself as a geek, smartphones lover and developer. For the community, has founded TenerifeDev (www.tenerifedev.com) with other friends, a technical community in Tenerife, coordinator at SUGES (SharePoint Users Group on Spain, www.suges.es) and at Comunidad Office 365 Spain.
+  profiles:
+    - network: "Twitter"
+      username: "adiazcan"
+      url: ""
+    - network: "LinkedIn"
+      username: "Alberto Diaz Martin"
+      url: ""
+work:
+  - company: "ENCAMINA"
+    position: "CTIO"
+    website: "https://encamina.com"
+    startDate: "2013-03-01"
+    endDate: ""
+    summary: >
+      Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
+      consistently fielded high Weisman Scores™ that are not merely competitive,
+      but approach the theoretical limit of lossless compression.
+    highlights:
+      - "Build an algorithm for artist to detect if their music was violating copy right infringement laws"
+      - "Successfully won Techcrunch Disrupt"
+      - "Optimized an algorithm that holds the current world record for Weisman Scores"
+volunteer:
+  - organization: "CoderDojo"
+    position: "Teacher"
+    website: "https://coderdojo.com/"
+    startDate: "2012-01-01"
+    endDate: "2013-01-01"
+    summary: "Global movement of free coding clubs for young people."
+    highlights:
+      - "Awarded 'Teacher of the Month'"
+education:
+  - institution: "University of Oklahoma"
+    area: "Information Technology"
+    studyType: "Bachelor"
+    startDate: "2011-06-01"
+    endDate: "2014-01-01"
+    gpa: "4.0"
+    courses:
+      - "DB1101 - Basic SQL"
+      - "CS2011 - Java Introduction"
+awards:
+  - title: "Digital Compression Pioneer Award"
+    date: "2014-11-01"
+    awarder: "Techcrunch"
+    summary: "There is no spoon."
+publications:
+  - name: "Video compression for 3d media"
+    publisher: "Hooli"
+    releaseDate: "2014-10-01"
+    website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
+    summary: "Innovative middle-out compression algorithm that changes the way we store data."
+skills:
+  - name: "Web Development"
+    level: "Master"
+    keywords:
+      - "HTML"
+      - "CSS"
+      - "Javascript"
+  - name: "Compression"
+    level: "Master"
+    keywords:
+      - "Mpeg"
+      - "MP4"
+      - "GIF"
+languages:
+  - language: "English"
+    fluency: "Native speaker"
+interests:
+  - name: "Wildlife"
+    keywords:
+      - "Ferrets"
+      - "Unicorns"
+references:
+  - name: "Erlich Bachman"
+    reference: >
+      It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
+      Company proved that he will be a valuable addition to any company.
