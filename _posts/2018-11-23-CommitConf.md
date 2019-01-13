@@ -1,12 +1,15 @@
 ---
 title:  "Commit Conf 2018"
-excerpt: "Extend your assistant"
-header:
-    overlay_image: /assets/images/posts/CommitConf2018.jpg
-    teaser: /assets/images/posts/CommitConf2018.jpg
+description: "Extend your assistant"
+#slug: kk4
+categories: events
+image: /assets/images/posts/CommitConf2018.jpg
+accent_image: /assets/images/posts/CommitConf2018.jpg
+excerpt_separator: <!--more-->
 ---
 
 [Commit Conf](https://2018.commit-conf.com/) is a conference where you can view all the perspective to develop software. Two days with more than 150 sessions and more than 2000 attendees with one objective, share knowledge. 
+<!--more-->
 
 We did a session with my friend [Diego Zapico](https://twitter.com/dzapic0) about how to extend and develop for the most popular asistants like Alexa and Google. 
 
