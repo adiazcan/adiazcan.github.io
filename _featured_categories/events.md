@@ -1,7 +1,7 @@
 ---
 layout: list
 title: Events
-slug: hydejack
+slug: events
 menu: true
 order: 1
 description: >

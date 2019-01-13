@@ -3,6 +3,7 @@ title:  "Microservicios at TenerifeDev"
 description: "A meetup to talk about Microservices, Docker, Kubernetes, Service Fabric"
 categories: meetup
 excerpt_separator: <!--more-->
+about: false
 ---
 
 Starting the year with a meetup at TenerifeDev, my first technical community in my Home at Canary Islands. Taking adventage that Carlos Mendible and me were on holidays on the island, we did a technical session to talk about how Microservices are changing the way we develop and run our applications. 
