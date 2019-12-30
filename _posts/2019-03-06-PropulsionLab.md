@@ -12,3 +12,5 @@ ENCAMINA Propulsion Lab is an inmersive lab with customers to talk about new tec
 <!--more-->
 
 Our session, I did it with Sergio Hernandez, was to show samples of using AI to improve productivity on organization and how to Use Azure to differentiate from the competition. 
+
+You can see more at <https://www.encamina.com/asi-fue-nuestro-propulsion-lab/>
